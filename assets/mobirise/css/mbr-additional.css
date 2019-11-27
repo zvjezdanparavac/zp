@@ -1205,6 +1205,50 @@ section.lazy-placeholder:after {
 .cid-rJ09FrVg3Z .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-rJ0mohlrd0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/football-stadium-i27310-1299x957.jpeg");
+}
+.cid-rJ0mohlrd0 h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-rJ0mohlrd0 p {
+  color: #ffffff;
+}
+.cid-rJ0mohlrd0 .card {
+  margin-bottom: 2rem;
+}
+.cid-rJ0mohlrd0 .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-rJ0mohlrd0 .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-rJ0mohlrd0 .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-rJ0mohlrd0 .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rJ0mohlrd0 .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rJ0mohlrd0 .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rJ0mohlrd0 .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
 .cid-rIgXJOkAcA .navbar {
   padding: .5rem 0;
   background: #454545;
@@ -1611,50 +1655,6 @@ section.lazy-placeholder:after {
 .cid-rIgXJOkAcA .nav-link:hover,
 .cid-rIgXJOkAcA .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-rIh0MkR5cr {
-  padding-top: 90px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/football-stadium-i27310-1299x957.jpg");
-}
-.cid-rIh0MkR5cr h4 {
-  font-weight: 500;
-  color: #ffffff;
-}
-.cid-rIh0MkR5cr p {
-  color: #ffffff;
-}
-.cid-rIh0MkR5cr .card {
-  margin-bottom: 2rem;
-}
-.cid-rIh0MkR5cr .card-img {
-  border-radius: 0;
-  padding: 2rem 2rem 0 2rem;
-  background-color: #149dcc;
-}
-.cid-rIh0MkR5cr .card-img span {
-  font-size: 100px;
-  color: #ffffff;
-}
-.cid-rIh0MkR5cr .card-box {
-  padding-bottom: 2rem;
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
-}
-.cid-rIh0MkR5cr .card-box .card-title {
-  margin: 0;
-  padding: 2rem 2rem 0 2rem;
-}
-.cid-rIh0MkR5cr .card-box .mbr-text {
-  margin-bottom: 0;
-  padding: 2rem 2rem 0 2rem;
-}
-.cid-rIh0MkR5cr .card-box .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-rIh0MkR5cr .card-box .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
 }
 .cid-rJ0a7ePcbm {
   padding-top: 60px;
@@ -2147,50 +2147,6 @@ section.lazy-placeholder:after {
 .cid-rIgXJOkAcA .nav-link:hover,
 .cid-rIgXJOkAcA .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-rIh1GO0CFt {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/football-stadium-i27310-1299x957.jpeg");
-}
-.cid-rIh1GO0CFt h4 {
-  font-weight: 500;
-  color: #ffffff;
-}
-.cid-rIh1GO0CFt p {
-  color: #ffffff;
-}
-.cid-rIh1GO0CFt .card {
-  margin-bottom: 2rem;
-}
-.cid-rIh1GO0CFt .card-img {
-  border-radius: 0;
-  padding: 2rem 2rem 0 2rem;
-  background-color: #149dcc;
-}
-.cid-rIh1GO0CFt .card-img span {
-  font-size: 100px;
-  color: #ffffff;
-}
-.cid-rIh1GO0CFt .card-box {
-  padding-bottom: 2rem;
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
-}
-.cid-rIh1GO0CFt .card-box .card-title {
-  margin: 0;
-  padding: 2rem 2rem 0 2rem;
-}
-.cid-rIh1GO0CFt .card-box .mbr-text {
-  margin-bottom: 0;
-  padding: 2rem 2rem 0 2rem;
-}
-.cid-rIh1GO0CFt .card-box .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-rIh1GO0CFt .card-box .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
 }
 .cid-rJ0a4mCjCd {
   padding-top: 60px;
