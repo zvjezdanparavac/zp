@@ -1598,7 +1598,7 @@ section.lazy-placeholder:after {
 .cid-rIh0MkR5cr {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/football-stadium-i27310-1299x957.jpg");
 }
 .cid-rIh0MkR5cr h4 {
   font-weight: 500;
@@ -1638,6 +1638,74 @@ section.lazy-placeholder:after {
 .cid-rIh0MkR5cr .card-box .mbr-section-btn a {
   margin-top: 1rem;
   margin-bottom: 0;
+}
+.cid-rJ08hWGk4G {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #454545;
+}
+@media (max-width: 767px) {
+  .cid-rJ08hWGk4G .content {
+    text-align: center;
+  }
+  .cid-rJ08hWGk4G .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rJ08hWGk4G .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rJ08hWGk4G .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rJ08hWGk4G .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rJ08hWGk4G .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rJ08hWGk4G .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rJ08hWGk4G .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rJ08hWGk4G .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rJ08hWGk4G .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rJ08hWGk4G .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rJ08hWGk4G .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rJ08hWGk4G .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
 }
 .cid-rIgXJOkAcA .navbar {
   padding: .5rem 0;
@@ -2049,7 +2117,7 @@ section.lazy-placeholder:after {
 .cid-rIh1GO0CFt {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/football-stadium-i27310-1299x957.jpeg");
 }
 .cid-rIh1GO0CFt h4 {
   font-weight: 500;
@@ -2090,41 +2158,71 @@ section.lazy-placeholder:after {
   margin-top: 1rem;
   margin-bottom: 0;
 }
-.cid-rIh25yDziQ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-rJ08b5US8b {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #454545;
 }
-.cid-rIh25yDziQ h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rIh25yDziQ p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-rIh25yDziQ .card-img {
-  text-align: left;
-  -webkit-flex: 1 0 auto;
-  flex: 1 0 auto;
-  width: auto;
-}
-.cid-rIh25yDziQ .card-img span {
-  font-size: 72px;
-  color: #ff3366;
-}
-.cid-rIh25yDziQ .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-  width: 100%;
-}
-@media (max-width: 991px) {
-  .cid-rIh25yDziQ .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
+@media (max-width: 767px) {
+  .cid-rJ08b5US8b .content {
+    text-align: center;
   }
-  .cid-rIh25yDziQ .card-box {
-    padding-left: 0;
+  .cid-rJ08b5US8b .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rJ08b5US8b .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rJ08b5US8b .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rJ08b5US8b .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rJ08b5US8b .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rJ08b5US8b .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rJ08b5US8b .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rJ08b5US8b .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rJ08b5US8b .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rJ08b5US8b .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rJ08b5US8b .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rJ08b5US8b .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
   }
 }
